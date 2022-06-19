@@ -1,0 +1,13 @@
+segment_sources:
+  I4F6DD2A6:
+    type: origin_type
+    relation: translation
+    language: en
+  IA49EE463:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  abf62ade7c6c4b91a8a937ac57312b15:
+    I4F6DD2A6: e1e3127e458c4212a786b8398501bbed
+    IA49EE463: 8440438dc1614f03881b8582abcb04c1

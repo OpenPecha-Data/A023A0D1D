@@ -1,0 +1,28 @@
+segment_sources:
+  I4F6DD2A6:
+    type: origin_type
+    relation: translation
+    language: en
+  IA49EE463:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ccc3497deafc4f71a57c17dc47652dda:
+    I4F6DD2A6: c3eef864c9d5486ba7b3b7d954639b66
+    IA49EE463: ac74e5b4f72c49d8bf0e873800b28355
+  63ef6100cbbd4c82aa02186f7e84f841:
+    I4F6DD2A6: 32a79890d0134a5a9290e9275db2bb6f
+    IA49EE463: e0c6312ed80c45788a7641ebb3c2e1e4
+  52f8ce6f93274351b95b2ef53c7fc14c:
+    I4F6DD2A6: c77ae89adb9b42e5894dccfd984beb38
+    IA49EE463: cd7b2a420bfc4cd0977d62b929e64787
+  64f652721dcc488caeec551760c9281e:
+    I4F6DD2A6: 067bb2d09ef4451bb0fca5740daad026
+    IA49EE463: b48863016e354f928779cf368d480845
+  2f4a9d35ac88487d9ca88f4653689f0e:
+    I4F6DD2A6: 56005ee34a834e29b2811a36755a1ad1
+    IA49EE463: 4ec66e0566104592b47e4210c18da42c
+  d87fd1b383414339b1bda83875496ed8:
+    I4F6DD2A6: e7e422562d7141fb835f52443c3f40d8
+    IA49EE463: bebbfc193e2c45f1ae8fdca8e0f32941
